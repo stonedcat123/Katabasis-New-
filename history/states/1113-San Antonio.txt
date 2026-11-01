@@ -1,0 +1,18 @@
+state={
+	id=1113
+	name="STATE_1113"
+	state_category = city
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		victory_points = {
+			12782 1 
+		}
+	}
+	provinces={
+		12782 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

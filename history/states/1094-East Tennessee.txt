@@ -1,0 +1,15 @@
+state={
+	id=1094
+	name="STATE_1094"
+	state_category = pastoral
+	history = {
+		owner = USD
+		add_core_of = USD
+	}
+	provinces={
+		1987 7615 10615 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

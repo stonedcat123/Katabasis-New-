@@ -1,0 +1,15 @@
+state={
+	id=1114
+	name="STATE_1114"
+	state_category = city
+	history = {
+		owner = AUT
+		add_core_of = AUT
+	}
+	provinces={
+		1927 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

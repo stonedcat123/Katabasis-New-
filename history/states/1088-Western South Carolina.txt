@@ -1,0 +1,23 @@
+state={
+	id=1088
+	name="STATE_1088"
+	state_category = city
+	history = {
+		owner = USD
+		add_core_of = USD
+		buildings = {
+			7202 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			7202 1
+		}
+	}
+	provinces={
+		1547 7012 7134 7202 10029 10047 11927 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

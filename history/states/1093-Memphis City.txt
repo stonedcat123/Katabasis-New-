@@ -1,0 +1,19 @@
+state={
+	id=1093
+	name="STATE_1093"
+	state_category = large_town
+	history = {
+		owner = MEM
+		add_core_of = MEM
+		add_core_of = USD
+		victory_points = {
+			7797 5
+		}
+	}
+	provinces={
+		7797 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

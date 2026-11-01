@@ -1,0 +1,18 @@
+version="1"
+tags={
+	"Events"
+	"Gameplay"
+	"Ideologies"
+	"Graphics"
+	"Military"
+	"National Focuses"
+	"Map"
+	"Alternative History"
+	"Sound"
+}
+name="Katabasis: 20 Years After The Rapture"
+replace_path="common/events"
+replace_path="common/bookmarks"
+replace_path="common/characters"
+supported_version="1.19.3.0"
+path="C:/Users/Windows/Documents/Paradox Interactive/Hearts of Iron IV/mod/Katabasis"

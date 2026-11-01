@@ -1,0 +1,18 @@
+state={
+	id=1109
+	name="STATE_1109"
+	state_category = metropolis
+	history = {
+		owner = DAL
+		add_core_of = DAL
+		victory_points = {
+			3960 10 
+		}
+	}
+	provinces={
+		3960 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

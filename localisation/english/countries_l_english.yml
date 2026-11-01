@@ -1,0 +1,176 @@
+﻿l_english:
+ USA: "United States of America"
+ USA_DEF: "America"
+ USA_ADJ: "American"
+
+ MTA: "Montana"
+ MTA_DEF: "the State of Montana"
+ MTA_ADJ: "Montanan"
+
+ DAK: "Dakota"
+ DAK_DEF: "the State of Dakota"
+ DAK_ADJ: "Dakotan"
+ 
+ MIN: "Minnesota"
+ MIN_DEF: "the State of Minnesota"
+ MIN_ADJ: "Minnesotan"
+
+ OHI: "Promethean Republic of Ohio"
+ OHI_DEF: "the Promethean Republic of Ohio"
+ OHI_ADJ: "Ohioan"
+
+ WSC: "Wisconsin"
+ WSC_DEF: "the State of Wisconsin"
+ WSC_ADJ: "Wisconsinite"
+
+ IND: "Indiana"
+ IND_DEF: "the State of Indiana"
+ IND_ADJ: "Indianan"
+
+ NJE: "New Jersey"
+ NJE_DEF: "the State of New Jersey"
+ NJE_ADJ: "New Jerseyan"
+
+ HAW: "Hawaii"
+ HAW_DEF: "the State of Hawaii"
+ HAW_ADJ: "Hawaiian"
+
+ USD: "United States of Dixie"
+ USD_DEF: "the United States of Dixie"
+ USD_ADJ: "Southerner"
+
+ BLA: "Black Panthers"
+ BLA_DEF: "the Black Panthers"
+ BLA_ADJ: "African-American"
+
+ NOI: "Nation of Islam"
+ NOI_DEF: "the Nation of Islam"
+ NOI_ADJ: "African-American"
+
+ MEM: "Trill Memphis Cult"
+ MEM_DEF: "the Memphis Cult"
+ MEM_ADJ: "African-American"
+
+ NYK: "New York"
+ NYK_DEF: "the State of New York"
+ NYK_ADJ: "New Yorker"
+
+ NYC: "New York City"
+ NYC_DEF: "the New York City Police"
+ NYK_ADJ: "New Yorker"
+
+ PEN: "Pennsylvania"
+ PEN_DEF: "the State of Pennsylvania"
+ PEN_ADJ: "Pennsylvanian"
+
+ VIR: "Virginia Commune"
+ VIR_DEF: "the Virginia Commune"
+ VIR_ADJ: "Virginian"
+
+ MIC: "Michigan"
+ MIC_DEF: "the State of Michigan"
+ MIC_ADJ: "Michigander"
+
+ DET: "Detroit"
+ DET_DEF: "the City of Detroit"
+ DET_ADJ: "Detroiter"
+ 
+ APP: "Appalachian Temple"
+ APP_DEF: "the Appalachian Temple"
+ APP_ADJ: "Appalachian"
+
+ ASA: "Efri Nes"
+ ASA_DEF: "the Odinist Fellowship"
+ ASA_ADJ: "Odinist"
+
+ SAT: "Army of Saturn"
+ SAT_DEF: "the Army of Saturn"
+ SAT_ADJ: "African-American"
+
+ UBC: "United Black Christians"
+ UBC_DEF: "the United Black Chrisitans"
+ UBC_ADJ: "African-American"
+
+ KNT: "Kentucky"
+ KNT_DEF: "the State of Kentucky"
+ KNT_ADJ: "Kentuckian"
+
+ RIG: "Republic of the Rio Grande"
+ RIG_DEF: "the Republic of the Rio Grande"
+ RIG_ADJ: "Rio Grandese"
+
+ TEX: "Texas"
+ TEX_DEF: "the Republic of Texas"
+ TEX_ADJ: "Texan"
+
+ TRY: "Trinity"
+ TRY_DEF: "the State of Trinity"
+ TRY_ADJ: "Texan"
+
+ DAV: "Branch Davidians"
+ DAV_DEF: "the Branch Davidians"
+ DAV_ADJ: "Branch Davidian"
+
+ ODS: "Odessa"
+ ODS_DEF: "the City of Odessa"
+ ODS_ADJ: "Texan"
+
+ DAL: "Dallas"
+ DAL_DEF: "the City of Dallas"
+ DAL_ADJ: "Texan"
+
+ SAN: "San Antonio"
+ SAN_DEF: "the City of San Antonio"
+ SAN_ADJ: "Texan"
+
+ AUT: "Austin"
+ AUT_DEF: "the City of Austin"
+ AUT_ADJ: "Texan"
+
+ FWT: "Fort Worth"
+ FWT_DEF: "the City of Fort Worth"
+ FWT_ADJ: "Texan"
+
+ ILL: "Illinois"
+ ILL_DEF: "the State of Illinois"
+ ILL_ADJ: "Illinoisan"
+
+ CHC: "La Cosa Nostra"
+ CHC_DEF: "the La Cosa Nostra gang"
+ CHC_ADJ: "Chicagoan"
+
+ BAH: "The Bahamas"
+ BAH_DEF: "the Commonwealth of the Bahamas"
+ BAH_ADJ: "Bahamian"
+
+ WTN: "Weather Underground"
+ WTN_DEF: "the Weather Underground"
+ WTN_ADJ: "Weatherman"
+
+ POS: "Posse Comitatus"
+ POS_DEF: "the Posse Comitatus"
+ POS_ADJ: "Posse Comitatus"
+
+ AOR: "Army of the Righteous"
+ AOR_DEF: "the Army of the Righteous"
+ AOR_ADJ: "Christian Militia"
+
+ CUS: "Central United States Federal Command"
+ CUS_DEF: "the CUSFC"
+ CUS_ADJ: "United States Armed Forces"
+
+ OKL: "Choctaw Nation"
+ OKL_DEF: "the Choctaw Nation"
+ OKL_ADJ: "Choctaw"
+
+ NMX: "Plurinational Republic of New Mexico"
+ NMX_DEF: "the Plurinational Republic of New Mexico"
+ NMX_ADJ: "New Mexican"
+
+ DES: "Mormon State of Deseret"
+ DES_DEF: "the Mormon State of Deseret"
+ DES_ADJ: "Mormon"
+
+ ARI: "Ranger Republic of Arizona"
+ ARI_DEF: "the Ranger Republic of Arizona"
+ ARI_ADJ: "Arizonan"

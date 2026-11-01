@@ -1,0 +1,16 @@
+state={
+	id=1092
+	name="STATE_1092"
+	state_category = rural
+	history = {
+		owner = UBC
+		add_core_of = USD
+		add_core_of = UBC
+	}
+	provinces={
+		1572 12381 12439 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

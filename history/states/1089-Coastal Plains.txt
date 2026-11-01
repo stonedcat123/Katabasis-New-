@@ -1,0 +1,18 @@
+state={
+	id=1089
+	name="STATE_1089"
+	state_category = city
+
+	history = {
+		owner = BLA
+		add_core_of = USD
+		add_core_of = BLA
+	}
+
+	provinces={
+		1019 1077 1132 1163 4168 6943 7045 7083 9876 10051 11783 12054 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
