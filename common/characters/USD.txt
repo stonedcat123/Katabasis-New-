@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = herrenvolk_democracy
+            ideology = placeholder_conservatism
             desc = george_wallace_desc  
             expire = "1999.1.1"
         }

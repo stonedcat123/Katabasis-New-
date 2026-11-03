@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = warlordism
+            ideology = placeholder_despotism
             desc = sun_ra_desc
             expire = "1999.1.1"
         }

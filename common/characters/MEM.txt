@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = occultism
+            ideology = placeholder_oldright
             desc = dj_spanish_fly_desc
             expire = "1999.1.1"
         }
