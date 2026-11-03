@@ -1,0 +1,25 @@
+# Scripted AI desire for peace actions.
+# See documentation.info file for more detailed scripting information.
+
+peace_ai_desires = {
+
+    always_take_states = {
+        peace_action_type = { take_states }
+        enable = {
+        OR = {
+                has_government = oldright
+                has_government = newright
+                 has_government = despotism
+                  has_government = oldleft
+                   has_government = oldright
+                    has_government = progressivism
+                      has_government = conservatism
+                            has_government = liberalism
+                                                        has_government = syncretism
+            }
+
+        }
+        ai_desire = 100
+    }
+	
+}
