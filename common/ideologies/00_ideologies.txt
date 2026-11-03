@@ -241,7 +241,7 @@ ideologies = {
 	autocracy = {
 
 		types = {
-			autocracy_placeholder = {}
+			placeholder_autocracy = {}
 
 		}
 

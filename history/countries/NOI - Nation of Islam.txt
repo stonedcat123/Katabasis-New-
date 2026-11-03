@@ -64,16 +64,13 @@ add_ideas = the_south_asunder
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = oldright
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 0
-	democratic = 0
-	communism = 0
-	fascism = 100
+	oldright = 100
 }
 
 recruit_character = NOI_louis_farrakhan

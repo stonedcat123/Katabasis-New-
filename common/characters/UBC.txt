@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = placeholder_conservatism
+            ideology = placeholder_oldright
             desc = yahweh_ben_yahweh_desc
             expire = "1999.1.1"
         }

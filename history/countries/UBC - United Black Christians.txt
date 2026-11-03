@@ -66,16 +66,15 @@ add_ideas = the_south_asunder
 
 
 set_politics = {
-	ruling_party = despotism
+	ruling_party = oldright
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	despotism = 80
-	conservatism = 15
-	oldleft = 5
-	fascism = 0
+	oldright = 85
+	newright = 10
+	conservatism = 5
 }
 
 recruit_character = UBC_yahweh_ben_yahweh
