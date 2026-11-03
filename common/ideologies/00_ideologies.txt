@@ -74,6 +74,12 @@ ideologies = {
 			neomarxism = {
 			}
 
+			gonzalo_thought = {
+			}
+
+			left_nationalism = {
+			}
+
 
 		}
 
@@ -100,6 +106,30 @@ ideologies = {
 
 		types = {
 			placeholder_progressivism = {}
+
+			social_democracy = {
+			}
+
+			national_progressivism = {
+			}
+
+			ecopolitics = {
+			}
+
+			left_populism = {
+			}
+
+			left_despotism = {
+			}
+
+			christian_progressivism = {
+			}
+
+			islamic_progressivism = {
+			}
+
+			buddhist_progressivism = {
+			}
 		}
 
 		dynamic_faction_names = {

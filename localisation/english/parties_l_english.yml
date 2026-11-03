@@ -46,13 +46,18 @@
  newright_noun: "Dissident Rightists"
  newright_desc: "Right-wing Regime"
 
+# schizophrenia ideology
+ syncretism: "Syncretism"
+ syncretism_noun: "Syncretists"
+ syncretism_desc: "Syncretic Government"
+
  # POLITICAL PARTIES
 
 
 
  # dixie parties
- USD_conservative_party: "GOP (D)"
- USD_conservative_party_long: "Grand Old Party (Dixie)"
+ USD_conservatism_party: "GOP (D)"
+ USD_conservatism_party_long: "Grand Old Party (Dixie)"
  USD_oldright_party: "SCV"
  USD_oldright_party_long: "Sons of Confederate Veterans"
  USD_newright_party: "KKK"
