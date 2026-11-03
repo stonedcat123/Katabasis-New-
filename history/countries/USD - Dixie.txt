@@ -56,16 +56,15 @@ add_ideas = jim_crow_laws
 add_ideas = disorganized_army
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	neutrality = 30
-	democratic = 50
-	communism = 5
-	fascism = 15
+	conservatism = 50
+	oldright = 20
+	newright = 30
 }
 
 recruit_character = USD_george_wallace

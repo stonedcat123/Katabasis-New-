@@ -4,28 +4,31 @@ ideologies = {
 
 		types = {
 
-			orthodoxmarxism = {
+			orthodox_marxism = {
 			}
 
-			marxismleninism = {
+			marxism_leninism = {
 			}
 
-			maozedongthought = {
+			maoism = {
 			}
 
 			trotskyism = {
 			}
 
-			leftcommunism = {
+			left_communism = {
 			}
 
-			christiansocialism = {	
+			christian_socialism = {	
 			}
 
-			islamicsocialism = {
+			islamic_socialism = {
 			}
 
-			anarchocommunism = {
+			buddhist_socialism = {
+			}
+
+			anarcho_communism = {
 				can_be_randomly_selected = no
 			}
 
@@ -46,23 +49,23 @@ ideologies = {
 	}
 
 
-	new_left = {
+	newleft = {
 
 		types = {
 
-			democraticsocialism = {
+			democratic_socialism = {
 			}
 
 			narcocommunism = {
 			}
 
-			leftlibertarianism = {
+			left_libertarianism = {
 			}
 
 			eurocommunism = {
 			}
 
-			blackmarxism = {
+			black_marxism = {
 			}
 
 			posadism = {
@@ -156,6 +159,7 @@ ideologies = {
 		}
 
 	}
+
 	conservatism = {
 
 		types = {
@@ -177,7 +181,8 @@ ideologies = {
 		}
 
 	}
-newright = {
+
+	newright = {
 
 		types = {
 			placeholder_newright = {}
@@ -198,9 +203,22 @@ newright = {
 		}
 
 	}
+
 	oldright = {
 
 		types = {
+			ethnonationalism = {
+			}
+
+			christian_theocracy = {
+			}
+
+			islamic_theocracy = {
+			}
+
+			buddhist_theocracy = {
+			}
+
 			placeholder_oldright = {}
 		}
 
@@ -219,10 +237,12 @@ newright = {
 		}
 
 	}
-	despotism = {
+
+	autocracy = {
 
 		types = {
-			placeholder_despotism = {}
+			autocracy_placeholder = {}
+
 		}
 
 		dynamic_faction_names = {

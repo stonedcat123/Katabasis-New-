@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = placeholder_oldright
+            ideology = ethnonationalism
             desc = louis_farrakhan_desc
             expire = "1999.1.1"
         }

@@ -67,16 +67,15 @@ add_ideas = the_south_asunder
 
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = newleft
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 10
-	democratic = 5
-	communism = 65
-	fascism = 20
+	newleft = 60
+	oldleft = 30
+	oldright = 10
 }
 
 recruit_character = BLA_huey_p_newton
