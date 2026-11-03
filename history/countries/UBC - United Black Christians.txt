@@ -66,15 +66,15 @@ add_ideas = the_south_asunder
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = despotism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 80
-	democratic = 15
-	communism = 5
+	despotism = 80
+	conservatism = 15
+	oldleft = 5
 	fascism = 0
 }
 
