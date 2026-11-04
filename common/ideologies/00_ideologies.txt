@@ -16,7 +16,13 @@ ideologies = {
 			trotskyism = {
 			}
 
+			posadism = {
+			}
+
 			left_communism = {
+			}
+
+			national_communism = {
 			}
 
 			christian_socialism = {	
@@ -59,25 +65,28 @@ ideologies = {
 			narcocommunism = {
 			}
 
-			left_libertarianism = {
+			eurocommunism = {
 			}
 
-			eurocommunism = {
+			new_communism = {
 			}
 
 			black_marxism = {
 			}
 
-			posadism = {
-			}
-
 			neomarxism = {
 			}
 
-			gonzalo_thought = {
+			left_nationalism = {
 			}
 
-			left_nationalism = {
+			left_libertarianism = {
+			}
+
+			social_anarchism = {
+			}
+			
+			utopian_socialism = {
 			}
 
 
@@ -105,7 +114,8 @@ ideologies = {
 	progressivism = {
 
 		types = {
-			placeholder_progressivism = {}
+			progressivism_ideology = {
+			}
 
 			social_democracy = {
 			}
@@ -119,7 +129,7 @@ ideologies = {
 			left_populism = {
 			}
 
-			left_despotism = {
+			left_authoritarianism = {
 			}
 
 			christian_progressivism = {
@@ -172,6 +182,32 @@ ideologies = {
 
 		types = {
 			placeholder_syncretism = {}
+
+			national_bolshevism = {
+			}
+
+			nazi_maoism = {
+			}
+
+			national_syndicalism = {
+			}
+
+			national_anarchism = {
+			}
+
+			pink_fascism = {
+			}
+
+			conservative_revolution = {
+			}
+
+			futurism = {
+			}
+
+			monarcho_communism = {
+			}
+
+
 		}
 
 		dynamic_faction_names = {
@@ -216,6 +252,36 @@ ideologies = {
 
 		types = {
 			placeholder_newright = {}
+
+			occultism = {
+			}
+
+			ethnopluralism = {
+			}
+
+			christian_identity = {
+			}
+
+			eco_fascism = {
+			}
+
+			satanic_nazism = {
+			}
+
+			neoreactionism = {
+			}
+
+			third_positionism = {
+			}
+
+			neo_volkisch = {
+			}
+
+			euro_nationalism = {
+			}
+
+			homonationalism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -237,19 +303,41 @@ ideologies = {
 	oldright = {
 
 		types = {
+			classical_fascism = {
+			}
+
+			intransigent_fascism = {
+			}
+
+			clerical_fascism = {
+			}
+
+			nazism = {
+			}
+
+			esoteric_nazism = {
+			}
+
+			strasserism = {
+			}
+
+			ultraconservatism = {
+			}
+
 			ethnonationalism = {
 			}
 
-			christian_theocracy = {
+			integral_nationalism = {
 			}
 
-			islamic_theocracy = {
+			buddhist_nationalism = {
 			}
 
-			buddhist_theocracy = {
+			salafi_jihadism = {
 			}
 
-			placeholder_oldright = {}
+			fundamentalism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -272,6 +360,15 @@ ideologies = {
 
 		types = {
 			placeholder_autocracy = {}
+
+			christian_theocracy = {
+			}
+
+			islamic_theocracy = {
+			}
+
+			buddhist_theocracy = {
+			}
 
 		}
 

@@ -174,3 +174,27 @@
  ARI: "Ranger Republic of Arizona"
  ARI_DEF: "the Ranger Republic of Arizona"
  ARI_ADJ: "Arizonan"
+
+ IDH: "Idaho"
+ IDH_DEF: "the State of Idaho"
+ IDH_ADJ: "Idahoan"
+
+ WYO: "Wyoming"
+ WYO_DEF: "the State of Wyoming"
+ WYO_ADJ: "Wyomingite"
+
+ NEV: "Nevada"
+ NEV_DEF: "the State of Nevada"
+ NEV_ADJ: "Nevadan"
+
+ LAS: "Las Vegas"
+ LAS_DEF: "the City of Las Vegas"
+ LAS_ADJ: "Nevadan"
+
+ CAL: "California"
+ CAL_DEF: "the State of California"
+ CAL_ADJ: "Californian"
+
+ CWP: "Confederation of Western Ports"
+ CWP_DEF: "the Confederation of Western Ports"
+ CWP_ADJ: "Californian"

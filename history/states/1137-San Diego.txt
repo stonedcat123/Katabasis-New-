@@ -2,6 +2,18 @@ state={
 	id=1137
 	name="STATE_1137"
 	state_category = metropolis
+	history = {
+		owner = CWP
+		add_core_of = CWP
+		victory_points = {
+			1562 15 
+		}
+		buildings = {
+			1562 = {
+				naval_base = 10
+			}
+		}
+	}
 	provinces={
 		823 1562 7517 7986 12374 
 	}

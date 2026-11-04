@@ -2,6 +2,10 @@ state={
 	id=1133
 	name="STATE_1133"
 	state_category = rural
+	history = {
+		owner = IDH
+		add_core_of = IDH
+	}
 	provinces={
 		10305 10625 
 	}

@@ -2,6 +2,10 @@ state={
 	id=1141
 	name="STATE_1141"
 	state_category = large_town
+	history = {
+		owner = CWP
+		add_core_of = CWP
+	}
 	provinces={
 		6681 6745 6757 
 	}

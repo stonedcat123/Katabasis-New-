@@ -3,15 +3,15 @@
 # liberuls
  liberalism: "Liberalism"
  liberalism_noun: "Liberal"
- liberalism_desc: "Liberal Government"
+ liberalism_desc: "Liberal Democracy"
 # conservatism
  conservatism: "Conservatism"
  conservatism_noun: "Conservative"
- conservatism_desc: "Conservative Government"
+ conservatism_desc: "Conservative Democracy"
 # progressivism
  progressivism: "Progressivism"
  progressivism_noun: "Progressivist"
- progressivism_desc: "Progressive Government"
+ progressivism_desc: "Progressive Democracy"
 
 # autocrats n shit
  autocracy: "Autocracy"
@@ -19,7 +19,7 @@
  autocracy_desc: "Autocratic Government"
 
 # old lefties
- oldleft: "Old Left"
+ oldleft: "Orthodox Left"
  oldleft_noun: "Orthodox Leftists"
  oldleft_desc: "Socialist State"
 
@@ -27,7 +27,7 @@
  buddhist_socialism_desc: "Buddhist Socialism combines the socioeconomic theory of socialism with the spiritual and moral principles of Buddhism. Buddhist Socialism is sometimes theocratic in practice but isn't necessarily so."
 
 # new lefties
- newleft: "New Left"
+ newleft: "Revisionist Left"
  newleft_noun: "Revisionist Leftists"
  newleft_desc: "Socialist State"
 
@@ -37,13 +37,13 @@
  narcocommunism_desc: "Narcocommunism started as a rhetorical insult from conservative politicians to accuse left-wing politicians of colluding with drug cartels. Post-rapture, certain cartels have used their position to almost become workers unions of their own sort, mixing cartel state policies with communist rhetoric."
 
 # old rightists
- oldright: "Old Right"
+ oldright: "Traditional Right"
  oldright_noun: "Traditional Rightists"
  oldright_desc: "Right-wing Regime"
 
 # new rightists
- newright: "New Right"
- newright_noun: "Dissident Rightists"
+ newright: "Radical Right"
+ newright_noun: "Radical Rightists"
  newright_desc: "Right-wing Regime"
 
 # schizophrenia ideology

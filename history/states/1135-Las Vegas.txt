@@ -3,6 +3,8 @@ state={
 	name="STATE_1135"
 	state_category = metropolis
 	history = {
+		owner = LAS
+		add_core_of = LAS
 		buildings = {
 			infrastructure = 2
 			# hoovah dam

@@ -2,8 +2,12 @@ state={
 	id=1132
 	name="STATE_1132"
 	state_category = rural
+	history = {
+		owner = IDH
+		add_core_of = IDH
+	}
 	provinces={
-		4826 7721 12553 
+		4826 7721 12553
 	}
 	manpower=0
 	buildings_max_level_factor=1

@@ -72,7 +72,8 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	oldright = 85
+	oldright = 75
+	autocracy = 10
 	newright = 10
 	conservatism = 5
 }

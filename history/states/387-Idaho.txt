@@ -13,11 +13,11 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = IDH
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = USA
+		add_core_of = IDH
 		victory_points = {
 			9616 1
 		}
