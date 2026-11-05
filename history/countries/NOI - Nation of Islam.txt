@@ -1,4 +1,4 @@
-﻿capital = 1088
+capital = 1088
 
 #oob = "COG_1936"
 
@@ -56,7 +56,7 @@ if = {
 	limit = { has_start_date < 1985.1.2 }
 	declare_war_on = {
 		target = USD
-		type = annex_everything
+		type = civil_war
 	}
 }
 

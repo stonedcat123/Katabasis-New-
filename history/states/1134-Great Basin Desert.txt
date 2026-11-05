@@ -4,7 +4,7 @@ state={
 	state_category = rural
 	history = {
 		owner = DES
-		add_core_of = DES
+		add_core_of = NEV
 	}
 	provinces={
 		1862 7756 7827 7879 10591 

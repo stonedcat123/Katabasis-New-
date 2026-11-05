@@ -71,8 +71,6 @@ set_politics = {
 }
 set_popularities = {
 	autocracy = 95
-	democratic = 0
-	communism = 0
 	newright = 5
 }
 

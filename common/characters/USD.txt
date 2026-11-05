@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = placeholder_conservatism
+            ideology = ultraconservatism
             desc = george_wallace_desc  
             expire = "1999.1.1"
         }

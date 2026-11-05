@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = DES
 		add_core_of = DES
+		add_core_of = IDH
 	}
 	provinces={
 		9695 12535 

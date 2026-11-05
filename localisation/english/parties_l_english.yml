@@ -31,6 +31,9 @@
  newleft_noun: "Revisionist Leftists"
  newleft_desc: "Socialist State"
 
+ black_marxism: "Black Marxism"
+ black_marxism_desc: "black marxism"
+
  posadism: "Posadism"
  posadism_desc: "Posadism is an offshoot of trotskyism that adds ufology and other concepts like communication with dolphins. Notably with theories of ufology, posadism supports nuclear conflict between capitalism and communism to destroy capitalism for the working class."
  narcocommunism: "Narcocommunism"
@@ -53,7 +56,15 @@
 
  # POLITICAL PARTIES
 
-
+ # us parties
+ USA_liberalism_party: "Democratic Party (L)"
+ USA_liberalism_party_long: "Democratic Party (Liberals)"
+ USA_progressivism_party: "Democratic Party (P)"
+ USA_progressivism_party_long: "Democratic Party (Progressives)"
+ USA_conservatism_party: "GOP"
+ USA_conservatism_party_long: "Grand Old Party"
+ USA_autocracy_party: "SBS"
+ USA_autocracy_party_long: "Skulls and Bones Society"
 
  # dixie parties
  USD_conservatism_party: "GOP (D)"

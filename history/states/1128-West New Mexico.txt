@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = ARI
 		add_core_of = ARI
+		add_core_of = NMX
 	}
 	provinces={
 		1972 10645 10914 

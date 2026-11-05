@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = RIG
 		add_core_of = RIG
+		add_core_of = NMX
 	}
 	provinces={
 		3867 12720 
