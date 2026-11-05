@@ -11,7 +11,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = placeholder_liberalism
+            ideology = social_liberalism
             desc = ted_kennedy_desc
             expire = "1999.1.1"
         }

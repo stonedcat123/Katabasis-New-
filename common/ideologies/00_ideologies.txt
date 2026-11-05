@@ -80,16 +80,11 @@ ideologies = {
 			left_nationalism = {
 			}
 
-			left_libertarianism = {
-			}
-
 			social_anarchism = {
 			}
 			
-			utopian_socialism = {
+			market_socialism = {
 			}
-
-
 		}
 
 		dynamic_faction_names = {
@@ -132,13 +127,10 @@ ideologies = {
 			left_authoritarianism = {
 			}
 
-			christian_progressivism = {
+			left_libertarianism = {
 			}
 
-			islamic_progressivism = {
-			}
-
-			buddhist_progressivism = {
+			utopian_socialism = {
 			}
 		}
 
@@ -161,7 +153,36 @@ ideologies = {
 	liberalism = {
 
 		types = {
-			placeholder_liberalism = {}
+
+			classical_liberalism = {
+			}
+
+			social_liberalism = {
+			}
+
+			national_liberalism = {
+			}
+
+			conservative_liberalism = {
+			}
+
+			neoliberalism = {
+			}
+
+			technoliberalism = {
+			}
+
+			ultraliberalism = {
+			}
+
+			right_libertarianism = {
+			}
+
+			national_libertarianism = {
+			}
+
+			individualist_anarchism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -181,7 +202,6 @@ ideologies = {
 	syncretism = {
 
 		types = {
-			placeholder_syncretism = {}
 
 			national_bolshevism = {
 			}
@@ -193,6 +213,9 @@ ideologies = {
 			}
 
 			national_anarchism = {
+			}
+
+			third_positionism = {
 			}
 
 			pink_fascism = {
@@ -229,7 +252,36 @@ ideologies = {
 	conservatism = {
 
 		types = {
-			placeholder_conservatism = {}
+
+			conservatism_ideology = {
+			}
+
+			social_conservatism = {
+			}
+
+			national_conservatism = {
+			}
+
+			neoconservatism = {
+			}
+
+			paleoconservatism = {
+			}
+
+			liberal_conservatism = {
+			}
+
+			ultraconservatism = {
+			}
+
+			right_populism = {
+			}
+
+			christian_democracy = {
+			}
+
+			islamic_democracy = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -251,7 +303,6 @@ ideologies = {
 	newright = {
 
 		types = {
-			placeholder_newright = {}
 
 			occultism = {
 			}
@@ -269,9 +320,6 @@ ideologies = {
 			}
 
 			neoreactionism = {
-			}
-
-			third_positionism = {
 			}
 
 			neo_volkisch = {
@@ -303,6 +351,7 @@ ideologies = {
 	oldright = {
 
 		types = {
+			
 			classical_fascism = {
 			}
 
@@ -319,9 +368,6 @@ ideologies = {
 			}
 
 			strasserism = {
-			}
-
-			ultraconservatism = {
 			}
 
 			ethnonationalism = {
@@ -359,7 +405,33 @@ ideologies = {
 	autocracy = {
 
 		types = {
-			placeholder_autocracy = {}
+
+			despotism = {
+			}
+
+			oligarchy = {
+			}
+
+			absolute_monarchy = {
+			}
+			
+			prometheanism = {
+			}
+
+			managerialism = {
+			}
+
+			corporatocracy = {
+			}
+
+			military_junta = {
+			}
+
+			colonial_state = {
+			}
+
+			technocracy = {
+			}
 
 			christian_theocracy = {
 			}
