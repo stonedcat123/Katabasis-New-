@@ -1,0 +1,22 @@
+state = {
+	id = 1145
+	name = "STATE_1145"
+	manpower = 7500
+
+	state_category = pastoral
+
+	history = {
+		owner = CAS
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13202 13203
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

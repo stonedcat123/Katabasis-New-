@@ -1,0 +1,22 @@
+state = {
+	id = 1151
+	name = "STATE_1151"
+	manpower = 5000
+
+	state_category = wasteland
+
+	history = {
+		owner = NHD
+		add_core_of = NHD
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10621
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

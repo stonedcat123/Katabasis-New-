@@ -198,3 +198,65 @@
  CWP: "Confederation of Western Ports"
  CWP_DEF: "the Confederation of Western Ports"
  CWP_ADJ: "Californian"
+
+ NSR: "North Star Republic"
+ NSR_DEF: "the North Star Republic"
+ NSR_ADJ: "North Star"
+
+ ALK: "Alaska"
+ ALK_DEF: "the State of Alaska"
+ ALK_ADJ: "Alaskan"
+
+ ANC: "Anchorage"
+ ANC_DEF: "Anchorage"
+ ANC_ADJ: "Anchorage"
+ ANC_conservatism: "Anchorage Republic"
+ ANC_conservatism_DEF: "the Anchorage Republic"
+
+ APR: "Alaska Peninsula"
+ APR_DEF: "the Alaska Peninsula"
+ APR_ADJ: "Peninsular"
+ APR_autocracy: "Alaskan Peninsula Republic"
+ APR_autocracy_DEF: "the Alaskan Peninsula Republic"
+
+ YUK: "Yukon"
+ YUK_DEF: "Yukon"
+ YUK_ADJ: "Yukoner"
+
+ INU: "United Tribes of the Northern Inuit"
+ INU_DEF: "the United Tribes of the Northern Inuit"
+ INU_ADJ: "Inuit"
+
+ CAN: "Canada"
+ CAN_DEF: "Canada"
+ CAN_ADJ: "Canadian"
+
+ CAS: "Cascadia"
+ CAS_DEF: "Cascadia"
+ CAS_ADJ: "Cascadian"
+
+ SKR: "Northern Saskatchewan"
+ SKR_DEF: "Northern Saskatchewan"
+ SKR_ADJ: "Saskatchewan"
+ SKR_newleft: "Saskatchewan Rebels"
+ SKR_newleft_DEF: "the Saskatchewan Rebels"
+
+ NHD: "Hudson Bay"
+ NHD_DEF: "Hudson Bay"
+ NHD_ADJ: "Hudson"
+ NHD_oldright: "Neo Hudson Division"
+ NHD_oldright_DEF: "the Neo Hudson Division"
+
+ QUE: "Quebec"
+ QUE_DEF: "Quebec"
+ QUE_ADJ: "Quebecois"
+
+ NFL: "Newfoundland"
+ NFL_DEF: "Newfoundland"
+ NFL_ADJ: "Newfoundlander"
+
+ TOR: "Toronto"
+ TOR_DEF: "Toronto"
+ TOR_ADJ: "Torontonian"
+ TOR_autocracy: "Toronto Regiment Government"
+ TOR_autocracy_DEF: "the Toronto Regiment Government"

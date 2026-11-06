@@ -1,0 +1,25 @@
+state={
+	id=463
+	name="STATE_463"
+
+	history={
+		owner = ALK
+		add_core_of = ALK
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+
+		}
+		#add_core_of = USA
+
+	}
+
+	provinces = {
+		1830 4848 10707 13069 
+	}
+	manpower = 17000
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1150
+	name = "STATE_1150"
+	manpower = 15000
+
+	state_category = rural
+
+	history = {
+		owner = TOR
+		add_core_of = TOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		6510 9467
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1147
+	name = "STATE_1147"
+	manpower = 2000
+
+	state_category = wasteland
+
+	history = {
+		owner = YUK
+		add_core_of = YUK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4678
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

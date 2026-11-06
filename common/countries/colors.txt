@@ -247,3 +247,68 @@ CWP = {
     color = rgb { 255 215 138 }
     color_ui = rgb { 255 215 138 }
 }
+
+NSR = {
+    color = rgb { 93 127 165 }
+    color_ui = rgb { 93 127 165 }
+}
+
+ALK = {
+    color = rgb { 37 30 142 }
+    color_ui = rgb { 37 30 142 }
+}
+
+ANC = {
+    color = rgb { 255 215 100 }
+    color_ui = rgb { 255 215 100 }
+}
+
+APR = {
+    color = rgb { 165 235 248 }
+    color_ui = rgb { 165 235 248 }
+}
+
+YUK = {
+    color = rgb { 40 148 63 }
+    color_ui = rgb { 40 148 63 }
+}
+
+CAS = {
+    color = rgb { 36 209 93 }
+    color_ui = rgb { 36 209 93 }
+}
+
+INU = {
+    color = rgb { 54 111 178 }
+    color_ui = rgb { 54 111 178 }
+}
+
+CAN = {
+    color = rgb { 255 138 128 }
+    color_ui = rgb { 255 138 128 }
+}
+
+SKR = {
+    color = rgb { 144 104 64 }
+    color_ui = rgb { 144 104 64 }
+}
+
+NHD = {
+    color = rgb { 147 104 114 }
+    color_ui = rgb { 147 104 114 }
+}
+
+QUE = {
+    color = rgb { 148 156 255 }
+    color_ui = rgb { 148 156 255 }
+}
+
+NFL = {
+    color = rgb { 244 137 189 }
+    color_ui = rgb { 244 137 189 }
+}
+
+TOR = {
+    color = rgb { 204 24 24 }
+    color_ui = rgb { 204 24 24 }
+}

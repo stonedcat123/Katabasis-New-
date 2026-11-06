@@ -1,4 +1,4 @@
-﻿capital = 359
+﻿capital = 1108
 
 #oob = "COG_1936"
 

@@ -1,0 +1,22 @@
+state = {
+	id = 1153
+	name = "STATE_1153"
+	manpower = 3000
+
+	state_category = pastoral
+
+	history = {
+		owner = NHD
+		add_core_of = NHD
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5239 10605
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

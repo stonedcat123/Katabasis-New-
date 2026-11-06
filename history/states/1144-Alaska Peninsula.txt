@@ -1,0 +1,23 @@
+state = {
+	id = 1144
+	name = "STATE_1144"
+	manpower = 10000
+
+	state_category = wasteland
+
+	history = {
+		owner = APR
+		add_core_of = APR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 13090 1 }
+	}
+
+	provinces = {
+		1135 7884 10694 12661 13090 10679 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

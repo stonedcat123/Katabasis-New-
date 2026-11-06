@@ -1,0 +1,24 @@
+state = {
+	id = 1143
+	name = "STATE_1143"
+	manpower = 27000
+
+	state_category = rural
+
+	history = {
+		owner = ANC
+		add_core_of = ANC
+		buildings = {
+			infrastructure = 1
+			13091 = { naval_base = 1 }
+		}
+		victory_points = { 13091 3 }
+	}
+
+	provinces = {
+		4833 13091
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1148
+	name = "STATE_1148"
+	manpower = 2500
+
+	state_category = wasteland
+
+	history = {
+		owner = INU
+		add_core_of = INU
+		buildings = {
+			infrastructure = 1
+			3691 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		12147 3691 7813 1712 13314
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}
