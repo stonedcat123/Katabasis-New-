@@ -1,0 +1,18 @@
+state = {
+	id = 1209
+	name = "STATE_1209"
+	manpower = 181629
+	state_category = wasteland
+	history = {
+		owner = SPC
+		add_core_of = SPC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		12141
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 1186
+	name = "STATE_1186"
+	manpower = 1201957
+	state_category = wasteland
+	history = {
+		owner = ZGT
+		add_core_of = ZGT
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		10462
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 2.0
+}

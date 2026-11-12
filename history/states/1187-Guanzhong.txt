@@ -1,0 +1,21 @@
+state = {
+	id = 1187
+	name = "STATE_1187"
+	manpower = 6230769
+	state_category = town
+	resources = {
+		steel = 2
+	}
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1976 2006 4167 4256 4295 5092 7406 10257 12713
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

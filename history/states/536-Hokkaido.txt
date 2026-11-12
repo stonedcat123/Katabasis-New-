@@ -1,0 +1,24 @@
+state = {
+	id = 536
+	name = "STATE_536"
+	manpower = 2958214
+	state_category = rural
+	resources = {
+		steel = 17
+		coal = 9
+	}
+	history = {
+		owner = AIN
+		add_core_of = AIN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 10444 15 } # Sapporo
+		victory_points = { 12421 5 } # Asahikawa
+		victory_points = { 3962 2 } # Hakodate
+	}
+	provinces = {
+		1512 1642 3962 4576 4646 7532 7595 10444 12352 12421 12493
+	}
+	local_supplies = 0.0
+}

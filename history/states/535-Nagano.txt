@@ -1,0 +1,26 @@
+state = {
+	id = 535
+	name = "STATE_535"
+	manpower = 3871000
+	state_category = city
+	resources = {
+		steel = 27
+		tungsten = 8
+	}
+	history = {
+		owner = SJP
+		add_core_of = SJP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			fuel_silo = 1
+		}
+		victory_points = { 10032 15 } # Kanazawa
+	}
+	provinces = {
+		998 7102 7217 10032
+	}
+	local_supplies = 0.0
+}

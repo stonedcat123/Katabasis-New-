@@ -1,0 +1,23 @@
+state = {
+	id = 1163
+	name = "STATE_1163"
+	manpower = 2739445
+	state_category = wasteland
+	history = {
+		owner = PSC
+		add_core_of = PSC
+		buildings = {
+			infrastructure = 2
+			7191 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = { 7191 1 } # Hangzhou
+	}
+	provinces = {
+		7191 10101
+	}
+	local_supplies = 0.0
+}

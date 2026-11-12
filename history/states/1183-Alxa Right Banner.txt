@@ -1,0 +1,19 @@
+state = {
+	id = 1183
+	name = "STATE_1183"
+	manpower = 202050
+	state_category = wasteland
+	history = {
+		owner = XSM
+		add_core_of = XSM
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 5031 1 } # Alxa Right Banner
+	}
+	provinces = {
+		5031
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

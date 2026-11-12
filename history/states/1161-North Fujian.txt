@@ -1,0 +1,21 @@
+state = {
+	id = 1161
+	name = "STATE_1161"
+	manpower = 6245162
+	state_category = town
+	resources = {
+		tungsten = 11
+	}
+	history = {
+		owner = SBS
+		add_core_of = SBS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		1006 1094 1138 1193 4053 4070 4113 4169 7099 7131 10010 10012 10042 10069 10084 12057 12084
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1204
+	name = "STATE_1204"
+	manpower = 655952
+	state_category = wasteland
+	history = {
+		owner = QRA
+		add_core_of = QRA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		7092
+	}
+	local_supplies = 4.0
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1201
+	name = "STATE_1201"
+	manpower = 393298
+	state_category = wasteland
+	history = {
+		owner = PSC
+		add_core_of = PSC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1099 4148
+	}
+	local_supplies = 0.0
+}

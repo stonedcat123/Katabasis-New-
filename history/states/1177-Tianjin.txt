@@ -1,0 +1,22 @@
+state = {
+	id = 1177
+	name = "STATE_1177"
+	manpower = 1403404
+	state_category = town
+	history = {
+		owner = TJN
+		add_core_of = TJN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			10068 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 10068 2 } # Tianjin
+	}
+	provinces = {
+		4137 9969 10068 11761
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 1176
+	name = "STATE_1176"
+	manpower = 877127
+	state_category = town
+	history = {
+		owner = QRA
+		add_core_of = QRA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 12026 1 } # Baoding
+	}
+	provinces = {
+		1134 6828 12026
+	}
+	local_supplies = 0.0
+}

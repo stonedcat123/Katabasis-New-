@@ -1,0 +1,17 @@
+state = {
+	id = 1196
+	name = "STATE_1196"
+	manpower = 952274
+	state_category = pastoral
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1054 1081 10085 12060
+	}
+	local_supplies = 0.0
+}

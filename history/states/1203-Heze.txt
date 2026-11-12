@@ -1,0 +1,17 @@
+state = {
+	id = 1203
+	name = "STATE_1203"
+	manpower = 1967856
+	state_category = wasteland
+	history = {
+		owner = COC
+		add_core_of = COC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		4010 7129 11933
+	}
+	local_supplies = 4.0
+}

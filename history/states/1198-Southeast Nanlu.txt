@@ -1,0 +1,17 @@
+state = {
+	id = 1198
+	name = "STATE_1198"
+	manpower = 829000
+	state_category = pastoral
+	history = {
+		owner = HNN
+		add_core_of = HNN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		4160 7135
+	}
+	local_supplies = 1.0
+}

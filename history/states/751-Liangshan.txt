@@ -1,0 +1,20 @@
+state = {
+	id = 751
+	name = "STATE_751"
+	manpower = 175000
+	state_category = pastoral
+	history = {
+		owner = SPC
+		add_core_of = SPC
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = { 10841 3 } # Ya'An
+	}
+	provinces = {
+		10841
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+}

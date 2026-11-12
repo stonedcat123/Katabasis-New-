@@ -1,0 +1,26 @@
+state = {
+	id = 608
+	name = "STATE_608"
+	manpower = 7367869
+	state_category = large_city
+	history = {
+		owner = BEJ
+		add_core_of = BEJ
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+			9843 = {
+				landmark_forbidden_city = {
+					level = 1
+					allowed = { has_dlc = "No Compromise, No Surrender" }
+				}
+			}
+		}
+		victory_points = { 9843 20 } # Beijing
+	}
+	provinces = {
+		4140 9843
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1160
+	name = "STATE_1160"
+	manpower = 470370
+	state_category = wasteland
+	resources = {
+		tungsten = 1
+		steel = 1
+	}
+	history = {
+		owner = SBS
+		add_core_of = SBS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		7141
+	}
+	local_supplies = 1.0
+}

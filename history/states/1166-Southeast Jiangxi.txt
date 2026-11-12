@@ -1,0 +1,18 @@
+state = {
+	id = 1166
+	name = "STATE_1166"
+	manpower = 1757822
+	state_category = wasteland
+	history = {
+		owner = SBS
+		add_core_of = SBS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		1066 4081 10112 12030
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 2.0
+}

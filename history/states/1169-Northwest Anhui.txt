@@ -1,0 +1,22 @@
+state = {
+	id = 1169
+	name = "STATE_1169"
+	manpower = 5559035
+	state_category = pastoral
+	resources = {
+		steel = 4
+	}
+	history = {
+		owner = ZGT
+		add_core_of = ZGT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		4079 4158 4203 9937 9959 10064 10079
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+}

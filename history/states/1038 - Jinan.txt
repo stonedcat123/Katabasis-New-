@@ -1,0 +1,21 @@
+state = {
+	id = 1038
+	name = "STATE_1038"
+	manpower = 18366660
+	state_category = rural
+	history = {
+		owner = LSD
+		add_core_of = LSD
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = { 1069 5 } # Jinan
+		victory_points = { 4181 1 } # Linyi
+	}
+	provinces = {
+		1069 1084 1124 4037 4071 4181 7055 7200 9956 10043 10072 10102 10119 12015 12045 12093
+	}
+	local_supplies = 4.0
+}

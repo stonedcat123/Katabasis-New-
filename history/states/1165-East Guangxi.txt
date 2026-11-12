@@ -1,0 +1,21 @@
+state = {
+	id = 1165
+	name = "STATE_1165"
+	manpower = 347408
+	state_category = wasteland
+	resources = {
+		tungsten = 1
+		steel = 1
+	}
+	history = {
+		owner = WDC
+		add_core_of = WDC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		7210
+	}
+	local_supplies = 0.0
+}

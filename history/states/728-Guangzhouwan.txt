@@ -1,0 +1,24 @@
+state = {
+	id = 728
+	name = "STATE_728"
+	manpower = 200000
+	state_category = enclave
+	resources = {
+		coal = 6
+	}
+	history = {
+		owner = WDC
+		add_core_of = WDC
+		buildings = {
+			infrastructure = 2
+			11981 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 11981 1 } # Fort-Bayard
+	}
+	provinces = {
+		11981
+	}
+	local_supplies = 0.0
+}

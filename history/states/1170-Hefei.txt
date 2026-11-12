@@ -1,0 +1,22 @@
+state = {
+	id = 1170
+	name = "STATE_1170"
+	manpower = 3176591
+	state_category = wasteland
+	resources = {
+		steel = 1
+	}
+	history = {
+		owner = HEF
+		add_core_of = HEF
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 7222 1 } # Hefei
+	}
+	provinces = {
+		7222 10017
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 1194
+	name = "STATE_1194"
+	manpower = 600000
+	state_category = wasteland
+	history = {
+		owner = CDU
+		add_core_of = CDU
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1257 4375
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+}

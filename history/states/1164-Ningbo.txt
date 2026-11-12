@@ -1,0 +1,23 @@
+state = {
+	id = 1164
+	name = "STATE_1164"
+	manpower = 2054584
+	state_category = wasteland
+	history = {
+		owner = WDC
+		add_core_of = WDC
+		buildings = {
+			infrastructure = 2
+			9974 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = { 9974 1 } # Ningbo
+	}
+	provinces = {
+		9974
+	}
+	local_supplies = 0.0
+}

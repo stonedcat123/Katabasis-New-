@@ -1,0 +1,28 @@
+state = {
+	id = 615
+	name = "STATE_615"
+	manpower = 10956500
+	state_category = town
+	resources = {
+		coal = 17
+	}
+	history = {
+		owner = QRA
+		add_core_of = QRA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			4174 = {
+				bunker = 1
+			}
+		}
+		victory_points = { 4174 5 } # Taiyuan
+		victory_points = { 12432 1 } # Datong
+		victory_points = { 1180 1 } # Jincheng
+	}
+	provinces = {
+		1027 1180 1203 1438 1519 1531 1575 4074 4174 4469 4538 4634 10367 10421 10480 10507 12078 12300 12344 12432
+	}
+	local_supplies = 0.0
+}

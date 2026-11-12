@@ -1,0 +1,19 @@
+state = {
+	id = 744
+	name = "STATE_744"
+	manpower = 2076923
+	state_category = town
+	history = {
+		owner = XIA
+		add_core_of = XIA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 7301 1 } # Xian
+	}
+	provinces = {
+		7301
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

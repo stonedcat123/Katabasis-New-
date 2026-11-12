@@ -1,0 +1,18 @@
+state = {
+	id = 1039
+	name = "STATE_1039"
+	manpower = 294000
+	state_category = pastoral
+	history = {
+		owner = BEJ
+		add_core_of = BEJ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 6904 3 } # Kalgan #was 4
+	}
+	provinces = {
+		6904 9776
+	}
+	local_supplies = 0.0
+}

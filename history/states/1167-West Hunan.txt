@@ -1,0 +1,21 @@
+state = {
+	id = 1167
+	name = "STATE_1167"
+	manpower = 1790621
+	state_category = wasteland
+	resources = {
+		tungsten = 1
+	}
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		4480 10335 12017
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1200
+	name = "STATE_1200"
+	manpower = 494431
+	state_category = pastoral
+	history = {
+		owner = PSC
+		add_core_of = PSC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		996 7120 11982 13142
+	}
+	local_supplies = 0.0
+}

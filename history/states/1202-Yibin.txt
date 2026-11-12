@@ -1,0 +1,19 @@
+state = {
+	id = 1202
+	name = "STATE_1202"
+	manpower = 4056763
+	state_category = rural
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 11972 1 } # Yibin
+	}
+	provinces = {
+		4431 7240 11972 12705
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

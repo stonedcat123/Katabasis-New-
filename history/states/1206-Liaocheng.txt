@@ -1,0 +1,17 @@
+state = {
+	id = 1206
+	name = "STATE_1206"
+	manpower = 655952
+	state_category = wasteland
+	history = {
+		owner = UCC
+		add_core_of = UCC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		12069
+	}
+	local_supplies = 4.0
+}

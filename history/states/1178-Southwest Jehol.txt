@@ -1,0 +1,17 @@
+state = {
+	id = 1178
+	name = "STATE_1178"
+	manpower = 59860
+	state_category = wasteland
+	history = {
+		owner = BEJ
+		add_core_of = BEJ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		3955
+	}
+	local_supplies = 0.0
+}

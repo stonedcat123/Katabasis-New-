@@ -1,0 +1,28 @@
+state = {
+	id = 408
+	name = "STATE_408"
+	manpower = 535478
+	state_category = town
+	resources = {
+		chromium = 7
+	}
+	history = {
+		owner = MAN
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			air_base = 3
+			957 = {
+				naval_base = 8
+				coastal_bunker = 3
+				naval_supply_hub = 1
+			}
+		}
+		victory_points = { 957 15 }
+	}
+	provinces = {
+		810 957 3787 3815 3843 3977 6838 6961 6989 9895 9926 11750 5427
+	}
+	local_supplies = 0.0
+}

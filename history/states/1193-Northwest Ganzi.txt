@@ -1,0 +1,18 @@
+state = {
+	id = 1193
+	name = "STATE_1193"
+	manpower = 54545
+	state_category = wasteland
+	history = {
+		owner = XSM
+		add_core_of = XSM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		7988 8104
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+}

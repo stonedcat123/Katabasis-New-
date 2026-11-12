@@ -260,3 +260,149 @@
  TOR_ADJ: "Torontonian"
  TOR_autocracy: "Toronto Regiment Government"
  TOR_autocracy_DEF: "the Toronto Regiment Government"
+
+ # East Asia
+
+ XSM: "Hui Sultanate"
+ XSM_DEF: "the Hui Sultanate"
+ XSM_ADJ: "Hui"
+
+ SIC: "Sichuan"
+ SIC_DEF: "Sichuan"
+ SIC_ADJ: "Sichuanese"
+
+ PCS: "People's Council of Sichuan"
+ PCS_DEF: "the People's Council of Sichuan"
+ PCS_ADJ: "Sichuanese"
+
+ CDU: "Chengdu"
+ CDU_DEF: "Chengdu"
+ CDU_ADJ: "Chengdu"
+
+ SPC: "Sichuan Pepper Company"
+ SPC_DEF: "the Sichuan Pepper Company"
+ SPC_ADJ: "Company"
+
+ PRC: "People's Republic of China"
+ PRC_DEF: "the People's Republic of China"
+ PRC_ADJ: "Chinese"
+
+ XIA: "Xi'an"
+ XIA_DEF: "Xi'an"
+ XIA_ADJ: "Xi'an"
+
+ ACR: "Army Corp Rebellion"
+ ACR_DEF: "the Army Corp Rebellion"
+ ACR_ADJ: "Rebel"
+
+ UCC: "United Corporate of Cathay"
+ UCC_DEF: "the United Corporate of Cathay"
+ UCC_ADJ: "Cathayan"
+
+ MAN: "Manchuria"
+ MAN_DEF: "Manchuria"
+ MAN_ADJ: "Manchurian"
+
+ KOR: "North Korea"
+ KOR_DEF: "North Korea"
+ KOR_ADJ: "North Korean"
+
+ SKO: "South Korea"
+ SKO_DEF: "South Korea"
+ SKO_ADJ: "South Korean"
+
+ SJP: "South Japan"
+ SJP_DEF: "South Japan"
+ SJP_ADJ: "South Japanese"
+
+ JAP: "North Japan"
+ JAP_DEF: "North Japan"
+ JAP_ADJ: "North Japanese"
+
+ AIN: "Ainu"
+ AIN_DEF: "the Ainu"
+ AIN_ADJ: "Ainu"
+
+ BEJ: "Beijing"
+ BEJ_DEF: "Beijing"
+ BEJ_ADJ: "Beijing"
+
+ TJN: "Tianjin"
+ TJN_DEF: "Tianjin"
+ TJN_ADJ: "Tianjin"
+
+ HBS: "Hebei-Shandong"
+ HBS_DEF: "Hebei-Shandong"
+ HBS_ADJ: "Hebei-Shandong"
+
+ LSD: "Lynji-Shandong"
+ LSD_DEF: "Lynji-Shandong"
+ LSD_ADJ: "Shandong"
+
+ QRA: "Qing Revivalists Army"
+ QRA_DEF: "the Qing Revivalists Army"
+ QRA_ADJ: "Qing"
+
+ SBS: "Second Blue Shirts Society"
+ SBS_DEF: "the Second Blue Shirts Society"
+ SBS_ADJ: "Blue Shirt"
+
+ ZZH: "Zhengzhou"
+ ZZH_DEF: "Zhengzhou"
+ ZZH_ADJ: "Zhengzhou"
+
+ COC: "Commune of China"
+ COC_DEF: "the Commune of China"
+ COC_ADJ: "Chinese"
+
+ WUH: "Wuhan"
+ WUH_DEF: "Wuhan"
+ WUH_ADJ: "Wuhan"
+
+ HEF: "Hefei"
+ HEF_DEF: "Hefei"
+ HEF_ADJ: "Hefei"
+
+ PSC: "People's State of China"
+ PSC_DEF: "the People's State of China"
+ PSC_ADJ: "Chinese"
+
+ NJG: "Nanjing"
+ NJG_DEF: "Nanjing"
+ NJG_ADJ: "Nanjing"
+
+ SHA: "Shanghai"
+ SHA_DEF: "Shanghai"
+ SHA_ADJ: "Shanghainese"
+
+ CHI: "Republic of China"
+ CHI_DEF: "the Republic of China"
+ CHI_ADJ: "Chinese"
+
+ WDC: "Workers' Democracy of China"
+ WDC_DEF: "the Workers' Democracy of China"
+ WDC_ADJ: "Chinese"
+
+ ZGT: "Zhongguo Tianxia"
+ ZGT_DEF: "Zhongguo Tianxia"
+ ZGT_ADJ: "Tianxia"
+
+ HKM: "Hong Kong-Macau"
+ HKM_DEF: "Hong Kong-Macau"
+ HKM_ADJ: "Hong Kong"
+
+ HNN: "Hainan"
+ HNN_DEF: "Hainan"
+ HNN_ADJ: "Hainanese"
+
+ GXC: "Guangxi"
+ GXC_DEF: "Guangxi"
+ GXC_ADJ: "Guangxi"
+
+ EOS: "Empire of Shangdi"
+ EOS_DEF: "the Empire of Shangdi"
+ EOS_ADJ: "Shangdist"
+
+ CQG: "Chongqing"
+ CQG_DEF: "Chongqing"
+ CQG_ADJ: "Chongqing"

@@ -1,0 +1,31 @@
+state = {
+	id = 592
+	name = "STATE_592"
+	manpower = 12430594
+	state_category = city
+	resources = {
+		tungsten = 2
+		steel = 4
+		chromium = 1
+	}
+	history = {
+		owner = HKM
+		add_core_of = HKM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+			1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = { 1047 10 } # Guangzhou
+	}
+	provinces = {
+		1047 7152 11938
+	}
+	local_supplies = 1.0
+}

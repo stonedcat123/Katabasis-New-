@@ -166,41 +166,7 @@ bookmarks = {
 				ITA_a_colonial_empire
 			}		
 		}
-		JAP = {
-			history = "JAP_GATHERING_STORM_DESC"
-			available = {  NOT = { has_dlc = "No Compromise, No Surrender" } }
-			ideology = neutrality
-			version = base_game
-			override_leader_portrait = JAP_emperor_hirohito
-			ideas = {
-				JAP_1936_fake_state_shintoism_idea
-				JAP_1936_fake_industrial_idea
-				JAP_militarism
-			}
-			focuses = {
-				JAP_sea_purge_the_kodoha_faction
-				JAP_the_unthinkable_option
-				JAP_support_the_kodoha_faction
-			}
-		}
 
-		JAP = {
-			history = "JAP_GATHERING_STORM_DESC"
-			required_dlc = { "No Compromise, No Surrender" }
-			version = no_compromise_no_surrender
-			ideology = neutrality
-			override_leader_portrait = JAP_emperor_hirohito
-			ideas = {
-				JAP_1936_fake_state_shintoism_idea
-				JAP_1936_fake_industrial_idea
-				JAP_militarism
-			}
-			focuses = {
-				JAP_sea_purge_the_kodoha_faction
-				JAP_revere_the_emperor_destroy_the_traitors
-				JAP_okadas_military_purge_speech
-			}
-		}
 		"SOV"={
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = communism
@@ -426,77 +392,9 @@ bookmarks = {
 			}
 		}
 		# Check bottom for CHI with NCNS
-		"CHI"={
-			minor = yes
-			history = "CHI_GATHERING_STORM_DESC"
-			available = { NOT = { has_dlc = "No Compromise, No Surrender" } }
-			ideology = neutrality
-			version = base_game
-			ideas = {
-				CHI_army_corruption_1
-				CHI_hyper_inflation_1
-				CHI_nine_power_treaty
-			}
-			focuses = {
-				CHI_united_front
-				CHI_army_reform
-				CHI_invite_the_flying_tigers
-			}
-		}
 		# Check bottom for PRC with NCNS
-		"PRC"={
-			minor = yes
-			history = "PRC_GATHERING_STORM_DESC"
-			available = { NOT = { has_dlc = "No Compromise, No Surrender" } }
-			ideology = communism
-			version = base_game
-			ideas = {
-				PRC_the_long_march_1
-				PRC_low_popular_support_3
-				PRC_power_struggles
-			}
-			focuses = {
-				PRC_infiltration
-				PRC_maoism
-				PRC_anti_japanese_expedition
-			}
-		}
 		# Check bottom for MAN with NCNS
-		"MAN"={
-			minor = yes
-			history = "MAN_GATHERING_STORM_DESC"
-			available = { NOT = { has_dlc = "No Compromise, No Surrender" } }
-			ideology = fascism
-			version = base_game
-			ideas = {
-				MAN_banditry
-				MAN_kwantung_veto
-				MAN_low_legitimacy_5
-			}
-			focuses = {
-				MAN_obedience
-				MAN_independence_war
-				MAN_claim_the_mandate_of_heaven
-			}
-		}
 		# Check bottom for GXC with NCNS
-		"GXC"={
-			minor = yes
-			available = { NOT = { has_dlc = "No Compromise, No Surrender" } }
-			history = "WARLORDS_GATHERING_STORM_DESC"
-			ideology = fascism
-			version = base_game
-			ideas = {
-				PRC_government_corruption
-				CHI_ineffective_bureaucracy_warlord
-				CHI_warlord_state_idea
-			}
-			focuses = {
-				CHI_join_the_republican_government
-				CHI_provoke_border_clashes
-				CHI_join_the_chinese_soviet
-			}
-		}		
 		# Check bottom for YUN with NCNS
 		"YUN"={
 			minor = yes
@@ -534,23 +432,6 @@ bookmarks = {
 			}
 		}		
 		# Check bottom for XSM with NCNS
-		"XSM"={
-			minor = yes
-			available = { NOT = { has_dlc = "No Compromise, No Surrender" } }
-			history = "WARLORDS_GATHERING_STORM_DESC"
-			ideology = fascism
-			version = base_game
-			ideas = {
-				PRC_government_corruption
-				CHI_ineffective_bureaucracy_warlord
-				CHI_warlord_state_idea
-			}
-			focuses = {
-				CHI_join_the_republican_government
-				CHI_provoke_border_clashes
-				CHI_join_the_chinese_soviet
-			}
-		}		
 		# Check bottom for SIK with NCNS
 		"SIK"={
 			minor = yes
@@ -1138,57 +1019,6 @@ bookmarks = {
 				PHI_treaty_of_manila
 			}
 		}
-		CHI = {
-			minor = yes
-			history = "CHI_GATHERING_STORM_DESC"
-			required_dlc = { "No Compromise, No Surrender" }
-			ideology = neutrality
-			version = no_compromise_no_surrender
-			ideas = {
-				CHI_neglected_countryside_fake_ns
-				CHI_corruption_in_the_armed_forces_fake_ns
-				CHI_nine_power_treaty_sea_fake_ns
-			}
-			focuses = {
-				CHI_denounce_feudalism
-				CHI_prepare_for_a_change_in_leadership
-				CHI_strengthening_our_resolve
-			}
-		}
-		PRC = {
-			minor = yes
-			history = "PRC_GATHERING_STORM_DESC"
-			required_dlc = { "No Compromise, No Surrender" }
-			ideology = communism
-			version = no_compromise_no_surrender
-			ideas = {
-				PRC_central_committee_1936_fake
-				PRC_the_chinese_red_army_1936_fake
-				PRC_agrarian_society_1936_fake
-			}
-			focuses = {
-				PRC_raid_weapon_depots
-				PRC_hundred_regiments_offensive
-				PRC_rural_recruitment
-			}
-		}
-		MAN = {
-			minor = yes
-			history = "MAN_TSR_GATHERING_STORM_DESC"
-			required_dlc = { "No Compromise, No Surrender" }
-			ideology = fascism
-			version = no_compromise_no_surrender
-			ideas = {
-				MAN_banditry
-				MAN_the_kangde_emperor
-				MAN_low_legitimacy_5
-			}
-			focuses = {
-				MAN_tsr_obedience
-				MAN_tsr_depose_puyi
-				MAN_tsr_claim_the_mandate_of_heaven
-			}
-		}
 		GDC = {
 			minor = yes
 			required_dlc = { "No Compromise, No Surrender" }
@@ -1204,40 +1034,6 @@ bookmarks = {
 				GXC_formation_of_the_nraja
 				GXC_rumors_of_deposition
 				GXC_declare_opposition
-			}
-		}
-		GXC = {
-			minor = yes
-			required_dlc = { "No Compromise, No Surrender" }
-			history = "WARLORDS_GATHERING_STORM_DESC"
-			ideology = neutrality
-			version = no_compromise_no_surrender
-			ideas = {
-				PRC_government_corruption
-				CHI_ineffective_bureaucracy_warlord
-				CHI_warlord_state_idea
-			}
-			focuses = {
-				GXC_formation_of_the_nraja
-				GXC_the_scorched_earth_speech
-				GXC_declare_opposition
-			}
-		}
-		SIC = {
-			minor = yes
-			required_dlc = { "No Compromise, No Surrender" }
-			history = "WARLORDS_GATHERING_STORM_DESC"
-			ideology = neutrality
-			version = no_compromise_no_surrender
-			ideas = {
-				PRC_government_corruption
-				CHI_ineffective_bureaucracy_warlord
-				CHI_warlord_state_idea
-			}
-			focuses = {
-				SIC_push_back_the_tibetans
-				SIC_sichuan_still_stands
-				SIC_the_armies_of_yang_sen
 			}
 		}
 		XIC = {
@@ -1306,23 +1102,6 @@ bookmarks = {
 				CHI_sea_cooperation_with_the_nationalists
 				CHI_sea_cooperation_with_the_communists
 				CHI_sea_opposition
-			}
-		}
-		XSM = {
-			minor = yes
-			required_dlc = { "No Compromise, No Surrender" }
-			history = "WARLORDS_GATHERING_STORM_DESC"
-			ideology = neutrality
-			version = no_compromise_no_surrender
-			ideas = {
-				PRC_government_corruption
-				CHI_ineffective_bureaucracy_warlord
-				CHI_warlord_state_idea
-			}
-			focuses = {
-				XSM_a_hui_army
-				XSM_a_united_ma_state
-				XSM_send_ma_lin_on_hajj
 			}
 		}
 		GSM = {

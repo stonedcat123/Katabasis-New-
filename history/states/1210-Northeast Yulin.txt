@@ -1,0 +1,21 @@
+state = {
+	id = 1210
+	name = "STATE_1210"
+	manpower = 422960
+	state_category = rural
+	resources = {
+		coal = 8
+	}
+	history = {
+		owner = QRA
+		add_core_of = QRA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		1458 7659
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1171
+	name = "STATE_1171"
+	manpower = 12736211
+	state_category = rural
+	history = {
+		owner = COC
+		add_core_of = COC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			arms_factory = 1
+		}
+		victory_points = { 7656 1 } # Kaifeng
+	}
+	provinces = {
+		1139 4066 4144 7074 7126 7540 7568 7656 10098 10364 12012
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 2.0
+}

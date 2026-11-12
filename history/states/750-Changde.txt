@@ -1,0 +1,22 @@
+state = {
+	id = 750
+	name = "STATE_750"
+	manpower = 6400000
+	state_category = town
+	history = {
+		owner = EOS
+		add_core_of = EOS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+		}
+		victory_points = { 7101 10 }
+	}
+	provinces = {
+		7101 7279 7434 12086
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+}

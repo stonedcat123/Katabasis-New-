@@ -1,0 +1,20 @@
+state = {
+	id = 1182
+	name = "STATE_1182"
+	manpower = 644500
+	state_category = wasteland
+	resources = {
+		coal = 2
+	}
+	history = {
+		owner = ACR
+		add_core_of = ACR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		1034 7571
+	}
+	local_supplies = 0.0
+}
