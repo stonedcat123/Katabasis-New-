@@ -406,3 +406,111 @@
  CQG: "Chongqing"
  CQG_DEF: "Chongqing"
  CQG_ADJ: "Chongqing"
+
+ MEX: "Mexico"
+ MEX_DEF: "the United Mexican States"
+ MEX_ADJ: "Mexican"
+
+ TAB: "Tabasco"
+ TAB_DEF: "the Free and Sovereign State of Tabasco"
+ TAB_ADJ: "Tabasqueno"
+
+ CHP: "Chiapas"
+ CHP_DEF: "the Free and Sovereign State of Chiapas"
+ CHP_ADJ: "Chiapaneca"
+
+ YUC: "Yucatan"
+ YUC_DEF: "the Republic of Yucatan"
+ YUC_ADJ: "Yucateco"
+
+ GUA: "Guatemala"
+ GUA_DEF: "the Republic of Guatemala"
+ GUA_ADJ: "Guatemalan"
+
+ BLZ: "Belize"
+ BLZ_DEF: "Belize"
+ BLZ_ADJ: "Belizean"
+
+ ELS: "El Salvador"
+ ELS_DEF: "the Republic of El Salvador"
+ ELS_ADJ: "El Salvadoran"
+
+ HON: "Honduras"
+ HON_DEF: "the Republic of Honduras"
+ HON_ADJ: "Honduran"
+
+ NIC: "Nicaragua"
+ NIC_DEF: "the Republic of Nicaragua"
+ NIC_ADJ: "Nicaraguan"
+
+ COS: "Costa Rica"
+ COS_DEF: "the Republic of Costa Rica"
+ COS_ADJ: "Costa Rican"
+ 
+ PAN: "Panama"
+ PAN_DEF: "the Republic of Panama"
+ PAN_ADJ: "Panamanian"
+
+ CIA: "Central Intelligence Agency"
+ CIA_DEF: "the CIA Administration of Panama and Port-au-Prince"
+ CIA_ADJ: "CIA"
+
+ CUB: "Cuba"
+ CUB_DEF: "the Republic of Cuba"
+ CUB_ADJ: "Cuban"
+
+ JAM: "Jamaica"
+ JAM_DEF: "the Republic of Jamaica"
+ JAM_ADJ: "Jamaican"
+
+ HIS: "Hispaniola"
+ HIS_DEF: "the Republic of Hispaniola"
+ HIS_ADJ: "Hispaniolan"
+
+ CSR: "United Carribean Socialist Republics"
+ CSR_DEF: "the United Carribean Socialist Republics"
+ CSR_ADJ: "Carribean"
+
+ COL: "Colombia"
+ COL_DEF: "the Republic of Colombia"
+ COL_ADJ: "Colombian"
+
+ VEN: "Venezuela"
+ VEN_DEF: "the Republic of Venezuela"
+ VEN_ADJ: "Venezuelan"
+
+ JON: "Jonestown"
+ JON_DEF: "the Peoples Temple"
+ JON_ADJ: "Peoples Temple"
+
+ GYA: "Guyana"
+ GYA_DEF: "the Republic of Guyana"
+ GYA_ADJ: "Guyanan"
+
+ SUR: "Suriname"
+ SUR_DEF: "the Republic of Suriname"
+ SUR_ADJ: "Surinamese"
+
+ CAY: "French Guyana"
+ CAY_DEF: "French Guyana"
+ CAY_ADJ: "French Guyanan"
+
+ ECU: "Ecuador"
+ ECU_DEF: "the Republic of Ecuador"
+ ECU_ADJ: "Ecuadorian"
+
+ PRU: "Peru"
+ PRU_DEF: "the Republic of Peru"
+ PRU_ADJ: "Peruvian"
+
+ AMA: "Amazons"
+ AMA_DEF: "the Amazons"
+ AMA_ADJ: "Amazonian"
+
+ ARE: "Acre"
+ ARE_DEF: "the State of Acre"
+ ARE_ADJ: "Acriano"
+
+ AMP: "Amapa"
+ AMP_DEF: "Amapa"
+ AMP_ADJ: "Amapaense"

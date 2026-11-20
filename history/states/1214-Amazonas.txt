@@ -1,0 +1,15 @@
+state={
+	id=1214
+	name="STATE_1214"
+	state_category = rural
+	history = {
+		owner = COL
+		add_core_of = VEN
+	}
+	provinces={
+		5317 8050 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

@@ -1,0 +1,24 @@
+state={
+	id=1212
+	name="STATE_1212"
+	state_category = town
+	history = {
+		owner = CIA 
+		add_core_of = HIS
+		add_core_of = HAI
+		buildings = {
+			4641 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4641 5 
+		}
+	}
+	provinces={
+		4641 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

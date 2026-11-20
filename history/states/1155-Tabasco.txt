@@ -1,0 +1,19 @@
+state={
+	id=1211
+	name="STATE_1211"
+	state_category = rural
+	history = {
+		owner = TAB
+		add_core_of = TAB
+		victory_points = {
+			2021 3
+		}
+	}
+
+	provinces={
+		2021 12867 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

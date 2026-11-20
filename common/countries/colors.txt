@@ -492,3 +492,128 @@ CQG = {
     color = rgb { 254 76 91 }
     color_ui = rgb { 254 76 91 }
 }
+
+MEX = {
+	color = rgb { 104 152 83 }
+	color_ui = rgb { 104 152 83 }
+}
+
+YUC = {
+	color = rgb { 255 26 26 }
+	color_ui = rgb { 255 26 26 }
+}
+
+CHP = {
+	color = rgb { 91 91 89 }
+	color_ui = rgb { 91 91 89 }
+}
+
+TAB = {
+	color = rgb { 0 154 0 }
+	color_ui = rgb { 0 154 0 }
+}
+
+ELS = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 152 130 191 }
+}
+
+HON = {
+	color = rgb { 128 145 65 }
+	color_ui = rgb { 128 145 65 }
+}
+
+NIC = {
+	color = rgb { 146 179 191 }
+	color_ui = rgb { 146 179 191 }
+}
+
+COS = {
+	color = rgb { 152 128 43 }
+	color_ui = rgb { 152 128 43 }
+}
+
+PAN = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 152 130 191 }
+}
+
+CUB = {
+	color = rgb { 140 65 166 }
+	color_ui = rgb { 140 65 166 }
+}
+
+JAM = {
+	color = rgb { 102 102 0 }
+	color_ui = rgb { 102 102 0 }
+}
+
+HIS = {
+	color = rgb { 85 138 232 }
+	color_ui = rgb { 85 138 232 }
+}
+
+CIA = {
+	color = rgb { 11 21 90 }
+	color_ui = rgb { 11 21 90 }
+}
+
+CSR = {
+	color = rgb { 82 0 0 }
+	color_ui = rgb { 82 0 0 }
+}
+
+COL = {
+	color = rgb { 222  187  91 }
+	color_ui = rgb { 222  187  91 }
+}
+
+VEN = {
+	color = rgb { 171  190  152 }
+	color_ui = rgb { 171  190  152 }
+}
+
+GYA = {
+	color = rgb { 255 204 153 }
+	color_ui = rgb { 255 204 153 }
+}
+
+SUR = {
+	color = rgb { 255 178 102 }
+	color_ui = rgb { 255 178 102 }
+}
+
+PRU = {
+	color = rgb { 196  189  204 }
+	color_ui = rgb { 196  189  204 }
+}
+
+ECU = {
+	color = rgb { 249  146  98 }
+	color_ui = rgb { 249  146  98 }
+}
+
+AMA = {
+	color = rgb { 17 187 148 }
+	color_ui = rgb { 17 187 148 }
+}
+
+ARE = {
+	color = rgb { 162 255 129 }
+	color_ui = rgb { 162 255 129 }
+}
+
+AMP = {
+	color = rgb { 56 168 68 }
+	color_ui = rgb { 56 168 68 }
+}
+
+CAY = {
+	color = rgb { 51 153 255 }
+	color_ui = rgb { 51 153 255 }
+}
+
+JON = {
+	color = rgb { 255 130 151 }
+	color_ui = rgb { 255 130 151 }
+}

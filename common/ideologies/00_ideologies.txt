@@ -199,6 +199,7 @@ ideologies = {
 		modifiers = {
 		}
 	}
+	
 	syncretism = {
 
 		types = {
